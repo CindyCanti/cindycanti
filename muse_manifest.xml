@@ -1,0 +1,64 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.cindycanti.tk" resolutions="1x" timestamp="1487800447726">
+  <folder name="css">
+    <file name="site_global.css" crc="3980600426"/>
+    <file name="master_a-p_g_-maestra.css" crc="3834874535" ref="index:contacto:galería"/>
+    <file name="index.css" crc="259611665" ref="index"/>
+    <file name="contacto.css" crc="4080960145" ref="contacto"/>
+    <file name="galer_a.css" crc="169988402" ref="galería"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:galería:contacto"/>
+    <file name="museutils.js" crc="183364071" ref="index:galería:contacto"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="index:galería"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:galería:contacto"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:galería:contacto"/>
+    <file name="webpro.js" crc="3803554875" ref="index:galería:contacto"/>
+    <file name="form_check.php" crc="277267350" ref="index:galería:contacto"/>
+    <file name="form_throttle.php" crc="3908387251" ref="index:galería:contacto"/>
+    <file name="form_process.php" crc="24249335" ref="index:galería:contacto"/>
+    <file name="form-u315.php" crc="3873209272" ref="index:galería:contacto"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:galería:contacto"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="galería"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="galería"/>
+    <file name="touchswipe.js" crc="4038331989" ref="galería"/>
+    <file name="form-u703.php" crc="126932886" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3818863916" ref="index"/>
+    <file name="globo.png" crc="96315003" seo="true" ref="index"/>
+    <file name="inicio.jpg" crc="529822397" seo="true" ref="index"/>
+    <file name="nubes2.png" crc="4039273049" seo="true" ref="index"/>
+    <file name="nubes1.png" crc="362908419" seo="true" ref="index"/>
+    <file name="sin título-1-recuperado-recuperado.png" crc="196021200" seo="true" ref="index"/>
+    <file name="u331-17.png" crc="380298718" ref="index:galería:contacto"/>
+    <file name="u331-17-r.png" crc="4027672137" ref="index:galería:contacto"/>
+    <file name="u331-17-m.png" crc="121147933" ref="index:galería:contacto"/>
+    <file name="u331-17-fs.png" crc="3969154064" ref="index:galería:contacto"/>
+    <file name="1.png" crc="238668377" seo="true" ref="galería"/>
+    <file name="blank.gif" crc="4208392903" ref="galería"/>
+    <file name="3.png" crc="4169744369" seo="true" ref="galería"/>
+    <file name="4.png" crc="4115253921" seo="true" ref="galería"/>
+    <file name="5.png" crc="188021094" seo="true" ref="galería"/>
+    <file name="2.png" crc="320732677" seo="true" ref="galería"/>
+    <file name="9.png" crc="486217080" seo="true" ref="galería"/>
+    <file name="10.png" crc="4117077750" seo="true" ref="galería"/>
+    <file name="11.png" crc="3887482129" seo="true" ref="galería"/>
+    <file name="12.png" crc="4252358970" seo="true" ref="galería"/>
+    <file name="13.png" crc="3961232246" seo="true" ref="galería"/>
+    <file name="14.png" crc="393329346" seo="true" ref="galería"/>
+    <file name="15.png" crc="63256995" seo="true" ref="galería"/>
+    <file name="7.png" crc="133712313" seo="true" ref="galería"/>
+    <file name="8.png" crc="3801182427" seo="true" ref="galería"/>
+    <file name="6.png" crc="340041867" seo="true" ref="galería"/>
+    <file name="loading.gif" crc="3815509949" ref="galería"/>
+    <file name="vídeo.jpg" crc="4279195528" seo="true" ref="galería"/>
+    <file name="contacto.jpg" crc="326657618" seo="true" ref="contacto"/>
+    <file name="u709-17.png" crc="380298718" ref="contacto"/>
+    <file name="u709-17-r.png" crc="4027672137" ref="contacto"/>
+    <file name="u709-17-m.png" crc="121147933" ref="contacto"/>
+    <file name="u709-17-fs.png" crc="3969154064" ref="contacto"/>
+  </folder>
+  <file name="index.html" crc="4113736650" seo="true" mt="1487800328026" redirect="true"/>
+  <file name="galería.html" crc="302530881" seo="true" mt="1487800263570" redirect="true"/>
+  <file name="contacto.html" crc="3817679604" seo="true" mt="1487800263570" redirect="true"/>
+</manifest>
